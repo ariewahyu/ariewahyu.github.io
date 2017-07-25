@@ -41,12 +41,8 @@
 <!-- .......... -->
 
   <article class="">
-<<<<<<< HEAD
     <a name="about" href="https://ariewahyu.github.io/#about"><h2>Arie Wahyu Wijayanto</h2></a>
-=======
-    <a name="about" href="https://ariewahyu.github.io/#about"><h2>Arie Wahyu</h2></a>
->>>>>>> 995f26486aad4d16a30cb559b56fa289aee1e30b
-    <section class="body">
+   <section class="body">
       <!-- <h3 id="success">Success</h3> -->
         <p></p><h4>Ph.D. Student and Research Assistant, <b>TokyoTech</b></h4>
         <a href="http://www.titech.ac.jp/english/index.html"><img border="1" width="167" height="34" src="./inc/logo.gif"></a><p></p>
