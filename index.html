@@ -57,7 +57,7 @@
 
         <p>I am generally interested in developing theoretically sound learning algorithms for massive scale graph protection using various approaches involving fundamental linear algebra, deep reinforcement learning, and graph kernel function. My current research also investigating the properties and behavior of multilayer interdependent networks. </p>
 
-        <p>For more recent updates and information, please check my Curriculum Vitae. </p>
+        <p>For more recent updates and information, please check my <a href="./inc/Arie W Wijayanto.pdf">Curriculum Vitae</a>. </p>
         <br><br>
         <br><br>
         <br>
