@@ -29,7 +29,7 @@
               <li class=""><a href="https://ariewahyu.github.io/#awards">Awards</a></li>
           </ul>
         </li>
-        <li><a href="./inc/Arie W Wijayanto.pdf">Curriculum Vitae</a></li>
+        <li><a href="./inc/Arie W Wijayanto.pdf" target="_blank">Curriculum Vitae</a></li>
         <!-- <li><a href="./img/arie.wahyu.pdf" target="_blank">CV</a></li> -->
     </ul>
   </nav>
@@ -64,7 +64,7 @@
         <table>
           <tr>
               <td width="100" valign="top"><b>2018-03-17</b></td> 
-              <td>My paper, "Pre-Emptive Spectral Graph Protection Strategies on Multiplex Social Networks", is accepted and will appear in <a href="https://appliednetsci.springeropen.com/">Applied Network Science</a> journal, published by Springer </td>
+              <td>My paper, "Pre-Emptive Spectral Graph Protection Strategies on Multiplex Social Networks", is accepted and will appear at <a href="https://appliednetsci.springeropen.com/">Applied Network Science</a> journal, published by Springer </td>
           </tr>
           <tr>
               <td width="100" valign="top"><b>2018-03-13</b></td> 
