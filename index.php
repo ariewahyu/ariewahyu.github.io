@@ -100,7 +100,7 @@
 
       <code>Paper:</code>
       <ul>
-        <li>Arie Wahyu Wijayanto, Tsuyoshi Murata: Flow-Aware Vertex Protection Strategy for Large Social Network. ASONAM 2017, Sydney.&nbsp;<a href="http://asonam.cpsc.ucalgary.ca/2017/" target="_blank">Link</a></li>
+        <li>Arie Wahyu Wijayanto, Tsuyoshi Murata: Flow-Aware Vertex Protection Strategy for Large Social Network. ASONAM 2017, Sydney.&nbsp;<a href="https://dl.acm.org/citation.cfm?id=3110033" target="_blank">Link</a></li>
         <li>Arie Wahyu Wijayanto, Tsuyoshi Murata: Pre-Emptive Spectral Graph Protection Strategies on Multiplex Social Networks. Applied Network Science. 2018. Springer (to appear) </li>
       </ul>
       
@@ -116,6 +116,8 @@
       <code>Paper:</code>
       <ul>
         <li>Arie Wahyu Wijayanto, Ayu Purwarianti, Le Hoang Son: Fuzzy geographically weighted clustering using artificial bee colony: An efficient geo-demographic analysis algorithm and applications to the analysis of crime behavior in population. Applied Intelligence 03/2016; 44(2). Springer. <a href="http://link.springer.com/article/10.1007/s10489-015-0705-7" target="_blank">Link</a></li>
+
+        <li>Arie Wahyu Wijayanto, Siti Mariyah, Ayu Purwarianti: Enhancing Clustering Quality of Fuzzy Geographically Weighted Clustering using Ant Colony Optimization. ICoDSE 2017, Palembang. <a href="http://ieeexplore.ieee.org/document/8285858/" target="_blank">Link</a></li>
 
         <li>Arie Wahyu Wijayanto, Ayu Purwarianti: Improvement of Fuzzy Geographically Weighted Clustering using Particle Swarm Optimization. International Conference on Information Technology Systems and Innovation (ICITSI) 2014, Bandung; 11/2014. <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7048229" target="_blank">Link</a></li>
 
@@ -175,9 +177,9 @@
       <p><code>Peer-Reviewed International Conference&nbsp;</code></p>
       
       <ol>
-            <li><b>Arie Wahyu Wijayanto</b>, Tsuyoshi Murata: Flow-Aware Vertex Protection Strategy for Large Social Network. ASONAM 2017, Sydney.&nbsp;<a href="http://asonam.cpsc.ucalgary.ca/2017/" target="_blank">Link</a></li>
+            <li><b>Arie Wahyu Wijayanto</b>, Tsuyoshi Murata: Flow-Aware Vertex Protection Strategy for Large Social Network. ASONAM 2017, Sydney.&nbsp;<a href="https://dl.acm.org/citation.cfm?id=3110033" target="_blank">Link</a></li>
             
-            <li><b>Arie Wahyu Wijayanto, </b>Siti Mariyah, Ayu Purwarianti:&nbsp;Enhancing Clustering Quality of Fuzzy Geographically Weighted Clustering using Ant Colony Optimization. ICoDSE 2017, Palembang.&nbsp;<a href="http://icodse2017.conf.unsri.ac.id/" target="_blank">Link</a></li>
+            <li><b>Arie Wahyu Wijayanto, </b>Siti Mariyah, Ayu Purwarianti:&nbsp;Enhancing Clustering Quality of Fuzzy Geographically Weighted Clustering using Ant Colony Optimization. ICoDSE 2017, Palembang.&nbsp;<a href="http://ieeexplore.ieee.org/document/8285858/" target="_blank">Link</a></li>
             
             <li>Atut Pindarwati, <b>Arie Wahyu Wijayanto</b>: Measuring Performance Level of Smart Transportation System in Big Cities of Indonesia (Comparative Study: Jakarta, Bandung, Medan, Surabaya, and Makassar). International Conference on Information Technology Systems and Innovation (ICITSI) 2015, Bandung, Indonesia; 11/2015. <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7437716" target="_blank">Link</a></li>
             
