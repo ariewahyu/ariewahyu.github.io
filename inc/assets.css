@@ -512,7 +512,9 @@ code {
 /* References */
 #content {
   padding-left: 260px;
-  padding-right: 20px;
+  padding-right: 5px;  
+  min-width: 500px;
+
 }
 
 #content .control {
