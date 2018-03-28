@@ -119,11 +119,11 @@
 
         <li>Arie Wahyu Wijayanto, Siti Mariyah, Ayu Purwarianti: Enhancing Clustering Quality of Fuzzy Geographically Weighted Clustering using Ant Colony Optimization. ICoDSE 2017, Palembang. <a href="http://ieeexplore.ieee.org/document/8285858/" target="_blank">Link</a></li>
 
-        <li>Arie Wahyu Wijayanto, Ayu Purwarianti: Improvement of Fuzzy Geographically Weighted Clustering using Particle Swarm Optimization. International Conference on Information Technology Systems and Innovation (ICITSI) 2014, Bandung; 11/2014. <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7048229" target="_blank">Link</a></li>
+        <li>Arie Wahyu Wijayanto, Ayu Purwarianti: Improvement of Fuzzy Geographically Weighted Clustering using Particle Swarm Optimization. International Conference on Information Technology Systems and Innovation (ICITSI) 2014, Bandung; 11/2014. <a href="http://ieeexplore.ieee.org/document/7048229" target="_blank">Link</a></li>
 
-        <li>Arie Wahyu Wijayanto, Ayu Purwarianti: Improvement Design of Fuzzy Geo-demographic Clustering using Artificial Bee Colony Optimization. The 3rd International Conference on Information Technology for Cyber &amp; IT Service Management (CITSM) 2014, Jakarta; 11/2014. <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7042178" target="_blank">Link</a></li>
+        <li>Arie Wahyu Wijayanto, Ayu Purwarianti: Improvement Design of Fuzzy Geo-demographic Clustering using Artificial Bee Colony Optimization. The 3rd International Conference on Information Technology for Cyber &amp; IT Service Management (CITSM) 2014, Jakarta; 11/2014. <a href="http://ieeexplore.ieee.org/document/7042178" target="_blank">Link</a></li>
 
-        <li>Arie Wahyu Wijayanto, Takdir: Fighting Cyber Crime in Email Spamming: An Evaluation of Fuzzy Clustering Approach to Classify Spam Messages. International Conference on Information Technology Systems and Innovation (ICITSI) 2014, Bandung; 11/2014. <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7048231" target="_blank">Link</a></li>
+        <li>Arie Wahyu Wijayanto, Takdir: Fighting Cyber Crime in Email Spamming: An Evaluation of Fuzzy Clustering Approach to Classify Spam Messages. International Conference on Information Technology Systems and Innovation (ICITSI) 2014, Bandung; 11/2014. <a href="http://ieeexplore.ieee.org/document/7048231" target="_blank">Link</a></li>
       </ul>
       
 
@@ -138,7 +138,7 @@
       <code>Paper:</code>
 
       <ul>
-        <li>Arie Wahyu Wijayanto, Suhardi: Service Oriented Architecture Design using SOMA for Optimizing Public Satisfaction in Government Agency Case Study: BPN – National Land Authority of Indonesia. International Conference on ICT for Smart Society (ICISS) 2014, Bandung; 09/2014. <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7013150" target="_blank">Link</a></li>
+        <li>Arie Wahyu Wijayanto, Suhardi: Service Oriented Architecture Design using SOMA for Optimizing Public Satisfaction in Government Agency Case Study: BPN – National Land Authority of Indonesia. International Conference on ICT for Smart Society (ICISS) 2014, Bandung; 09/2014. <a href="http://ieeexplore.ieee.org/document/7013150" target="_blank">Link</a></li>
       </ul>
 
       
@@ -152,7 +152,7 @@
       <code>Paper:</code>
       
       <ul>
-        <li>Atut Pindarwati, Arie Wahyu Wijayanto: Measuring Performance Level of Smart Transportation System in Big Cities of Indonesia (Comparative Study: Jakarta, Bandung, Medan, Surabaya, and Makassar). International Conference on Information Technology Systems and Innovation (ICITSI) 2015, Bandung, Indonesia; 11/2015. <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7437716" target="_blank">Link</a></li>
+        <li>Atut Pindarwati, Arie Wahyu Wijayanto: Measuring Performance Level of Smart Transportation System in Big Cities of Indonesia (Comparative Study: Jakarta, Bandung, Medan, Surabaya, and Makassar). International Conference on Information Technology Systems and Innovation (ICITSI) 2015, Bandung, Indonesia; 11/2015. <a href="http://ieeexplore.ieee.org/document/7437716" target="_blank">Link</a></li>
       </ul>
 
     </section>
@@ -181,15 +181,15 @@
             
             <li><b>Arie Wahyu Wijayanto, </b>Siti Mariyah, Ayu Purwarianti:&nbsp;Enhancing Clustering Quality of Fuzzy Geographically Weighted Clustering using Ant Colony Optimization. ICoDSE 2017, Palembang.&nbsp;<a href="http://ieeexplore.ieee.org/document/8285858/" target="_blank">Link</a></li>
             
-            <li>Atut Pindarwati, <b>Arie Wahyu Wijayanto</b>: Measuring Performance Level of Smart Transportation System in Big Cities of Indonesia (Comparative Study: Jakarta, Bandung, Medan, Surabaya, and Makassar). International Conference on Information Technology Systems and Innovation (ICITSI) 2015, Bandung, Indonesia; 11/2015. <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7437716" target="_blank">Link</a></li>
+            <li>Atut Pindarwati, <b>Arie Wahyu Wijayanto</b>: Measuring Performance Level of Smart Transportation System in Big Cities of Indonesia (Comparative Study: Jakarta, Bandung, Medan, Surabaya, and Makassar). International Conference on Information Technology Systems and Innovation (ICITSI) 2015, Bandung, Indonesia; 11/2015. <a href="http://ieeexplore.ieee.org/document/7437716" target="_blank">Link</a></li>
             
-            <li><b>Arie Wahyu Wijayanto</b>, Ayu Purwarianti: Improvement of Fuzzy Geographically Weighted Clustering using Particle Swarm Optimization. International Conference on Information Technology Systems and Innovation (ICITSI) 2014, Bandung; 11/2014. <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7048229" target="_blank">Link</a></li>
+            <li><b>Arie Wahyu Wijayanto</b>, Ayu Purwarianti: Improvement of Fuzzy Geographically Weighted Clustering using Particle Swarm Optimization. International Conference on Information Technology Systems and Innovation (ICITSI) 2014, Bandung; 11/2014. <a href="http://ieeexplore.ieee.org/document/7048229" target="_blank">Link</a></li>
             
-            <li><b>Arie Wahyu Wijayanto</b>, Takdir: Fighting Cyber Crime in Email Spamming: An Evaluation of Fuzzy Clustering Approach to Classify Spam Messages. International Conference on Information Technology Systems and Innovation (ICITSI) 2014, Bandung; 11/2014. <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7048231" target="_blank">Link</a></li>
+            <li><b>Arie Wahyu Wijayanto</b>, Takdir: Fighting Cyber Crime in Email Spamming: An Evaluation of Fuzzy Clustering Approach to Classify Spam Messages. International Conference on Information Technology Systems and Innovation (ICITSI) 2014, Bandung; 11/2014. <a href="http://ieeexplore.ieee.org/document/7048231" target="_blank">Link</a></li>
             
-            <li><b>Arie Wahyu Wijayanto</b>, Ayu Purwarianti: Improvement Design of Fuzzy Geo-demographic Clustering using Artificial Bee Colony Optimization. The 3rd International Conference on Information Technology for Cyber &amp; IT Service Management (CITSM) 2014, Jakarta; 11/2014. <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7042178" target="_blank">Link</a></li>
+            <li><b>Arie Wahyu Wijayanto</b>, Ayu Purwarianti: Improvement Design of Fuzzy Geo-demographic Clustering using Artificial Bee Colony Optimization. The 3rd International Conference on Information Technology for Cyber &amp; IT Service Management (CITSM) 2014, Jakarta; 11/2014. <a href="http://ieeexplore.ieee.org/document/7042178" target="_blank">Link</a></li>
             
-            <li><b>Arie Wahyu Wijayanto</b>, Suhardi: Service Oriented Architecture Design using SOMA for Optimizing Public Satisfaction in Government Agency Case Study: BPN – National Land Authority of Indonesia. International Conference on ICT for Smart Society (ICISS) 2014, Bandung; 09/2014. <a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7013150" target="_blank">Link</a></li>
+            <li><b>Arie Wahyu Wijayanto</b>, Suhardi: Service Oriented Architecture Design using SOMA for Optimizing Public Satisfaction in Government Agency Case Study: BPN – National Land Authority of Indonesia. International Conference on ICT for Smart Society (ICISS) 2014, Bandung; 09/2014. <a href="http://ieeexplore.ieee.org/document/7013150" target="_blank">Link</a></li>
       </ol>
 
       <p><code>Domestic Conference</code></p>
