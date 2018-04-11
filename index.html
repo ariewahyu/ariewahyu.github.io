@@ -64,7 +64,7 @@
         <table>
           <tr>
               <td width="100" valign="top"><b>2018-03-17</b></td> 
-              <td>My paper, "Pre-Emptive Spectral Graph Protection Strategies on Multiplex Social Networks", is accepted and will appear at <a href="https://appliednetsci.springeropen.com/">Applied Network Science</a> journal, published by Springer </td>
+              <td>My paper, "Pre-Emptive Spectral Graph Protection Strategies on Multiplex Social Networks", is accepted at <a href="https://appliednetsci.springeropen.com/articles/10.1007/s41109-018-0061-8">Applied Network Science</a> journal, published by Springer </td>
           </tr>
           <tr>
               <td width="100" valign="top"><b>2018-03-13</b></td> 
@@ -101,7 +101,7 @@
       <code>Paper:</code>
       <ul>
         <li>Arie Wahyu Wijayanto, Tsuyoshi Murata: Flow-Aware Vertex Protection Strategy for Large Social Network. ASONAM 2017, Sydney.&nbsp;<a href="https://dl.acm.org/citation.cfm?id=3110033" target="_blank">Link</a></li>
-        <li>Arie Wahyu Wijayanto, Tsuyoshi Murata: Pre-Emptive Spectral Graph Protection Strategies on Multiplex Social Networks. Applied Network Science. 2018. Springer (to appear) </li>
+        <li>Arie Wahyu Wijayanto, Tsuyoshi Murata: Pre-Emptive Spectral Graph Protection Strategies on Multiplex Social Networks. Applied Network Science. 2018. Springer. <a href="https://appliednetsci.springeropen.com/articles/10.1007/s41109-018-0061-8" target="_blank">Link</a> </li>
       </ul>
       
 
@@ -170,7 +170,7 @@
       <p><code>International Journal</code></p>
       
       <ol>
-            <li><b>Arie Wahyu Wijayanto</b>, Tsuyoshi Murata: Pre-Emptive Spectral Graph Protection Strategies on Multiplex Social Networks. Applied Network Science. 2018. Springer (to appear) </li>
+            <li><b>Arie Wahyu Wijayanto</b>, Tsuyoshi Murata: Pre-Emptive Spectral Graph Protection Strategies on Multiplex Social Networks. Applied Network Science. 2018. Springer <a href="https://appliednetsci.springeropen.com/articles/10.1007/s41109-018-0061-8" target="_blank">Link</a> </li>
             <li><b>Arie Wahyu Wijayanto</b>, Ayu Purwarianti, Le Hoang Son: Fuzzy geographically weighted clustering using artificial bee colony: An efficient geo-demographic analysis algorithm and applications to the analysis of crime behavior in population. Applied Intelligence 03/2016; 44(2). Springer. <a href="http://link.springer.com/article/10.1007/s10489-015-0705-7" target="_blank">Link</a></li>
       </ol>
 
