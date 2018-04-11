@@ -64,19 +64,19 @@
         <table>
           <tr>
               <td width="100" valign="top"><b>2018-03-17</b></td> 
-              <td>My paper, "Pre-Emptive Spectral Graph Protection Strategies on Multiplex Social Networks", is accepted at <a href="https://appliednetsci.springeropen.com/articles/10.1007/s41109-018-0061-8">Applied Network Science</a> journal, published by Springer </td>
+              <td>My paper, "Pre-Emptive Spectral Graph Protection Strategies on Multiplex Social Networks", is accepted at <a href="https://appliednetsci.springeropen.com/articles/10.1007/s41109-018-0061-8" target="_blank">Applied Network Science</a> journal, published by Springer </td>
           </tr>
           <tr>
               <td width="100" valign="top"><b>2018-03-13</b></td> 
-              <td>I am appointed as Program Committee of <a href="https://kg4ir.github.io/organization/">KG4IR Workshop</a> on SIGIR 2018 Conference </td>
+              <td>I am appointed as Program Committee of <a href="https://kg4ir.github.io/organization/" target="_blank">KG4IR Workshop</a> on SIGIR 2018 Conference </td>
           </tr>
           <tr>
               <td width="100" valign="top"><b>2017-07-03</b></td> 
-              <td>My paper from the extended version of my master thesis, "Enhancing Clustering Quality of Fuzzy Geographically Weighted Clustering using Ant Colony Optimization", is accepted at <a href="http://ieeexplore.ieee.org/document/8285858/">ICoDSE 2017</a> conference </td>
+              <td>My paper from the extended version of my master thesis, "Enhancing Clustering Quality of Fuzzy Geographically Weighted Clustering using Ant Colony Optimization", is accepted at <a href="http://ieeexplore.ieee.org/document/8285858/" target="_blank">ICoDSE 2017</a> conference </td>
           </tr>
           <tr>
               <td width="100" valign="top"><b>2017-05-16</b></td> 
-              <td>My paper, "Flow-Aware Vertex Protection Strategy for Large Social Network", is accepted at <a href="https://dl.acm.org/citation.cfm?id=3110033">ASONAM 2017</a> conference. </td>
+              <td>My paper, "Flow-Aware Vertex Protection Strategy for Large Social Network", is accepted at <a href="https://dl.acm.org/citation.cfm?id=3110033" target="_blank">ASONAM 2017</a> conference. </td>
           </tr>
         </table>
         <p><br/><br/><br/><br/><br/><br/></p>
