@@ -274,7 +274,9 @@
 
       <ul>
           <li>IEEE International Conference on Data Mining (ICDM) 2016</li>
-          <li>IEEE International Conference on Data Mining (ICDM)&nbsp;2017</li>
+          <li>IEEE International Conference on Data Mining (ICDM) 2017</li>
+          <li>IEEE International Conference on Data Mining (ICDM) 2018</li>
+          <li>Information Retrieval Journal (Springer)</li>
       </ul>
 
 
