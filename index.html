@@ -63,7 +63,7 @@
         <p><b>News</b></p>
         <table>
           <tr>
-              <td width="100" valign="top"><b>2018-03-17</b></td> 
+              <td width="100" valign="top"><b>2018-08-27</b></td> 
               <td>My paper, "Learning Adaptive Graph Protection Strategy on Dynamic Networks via Reinforcement Learning", is accepted at Web Intelligence 2018 conference.</td>
           </tr>
           <tr>
