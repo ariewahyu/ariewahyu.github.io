@@ -64,7 +64,7 @@
         <table>
           <tr>
               <td width="100" valign="top"><b>2018-08-27</b></td> 
-              <td>My paper, "Learning Adaptive Graph Protection Strategy on Dynamic Networks via Reinforcement Learning", is accepted at Web Intelligence 2018 conference.</td>
+              <td>My paper, "Learning Adaptive Graph Protection Strategy on Dynamic Networks via Reinforcement Learning", is accepted at <a href="https://webintelligence2018.com" target="_blank">Web Intelligence 2018</a> conference.</td>
           </tr>
           <tr>
               <td width="100" valign="top"><b>2018-03-17</b></td> 
@@ -276,7 +276,8 @@
           <li>IEEE International Conference on Data Mining (ICDM) 2016</li>
           <li>IEEE International Conference on Data Mining (ICDM) 2017</li>
           <li>IEEE International Conference on Data Mining (ICDM) 2018</li>
-          <li>Information Retrieval Journal (Springer)</li>
+          <li>Information Retrieval Journal (Springer)</li>        
+          <li>Applied Soft Computing Journal (Elsevier)</li>
       </ul>
 
 
