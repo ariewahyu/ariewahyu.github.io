@@ -182,6 +182,8 @@
       <p><code>Peer-Reviewed International Conference&nbsp;</code></p>
       
       <ol>
+            <li><b>Arie Wahyu Wijayanto</b>, Tsuyoshi Murata: Learning Adaptive Graph Protection Strategy on Dynamic Networks via Reinforcement Learning. Web Intelligence 2018, Santiago, Chile.</li>
+            
             <li><b>Arie Wahyu Wijayanto</b>, Tsuyoshi Murata: Flow-Aware Vertex Protection Strategy for Large Social Network. ASONAM 2017, Sydney.&nbsp;<a href="https://dl.acm.org/citation.cfm?id=3110033" target="_blank">Link</a></li>
             
             <li><b>Arie Wahyu Wijayanto, </b>Siti Mariyah, Ayu Purwarianti:&nbsp;Enhancing Clustering Quality of Fuzzy Geographically Weighted Clustering using Ant Colony Optimization. ICoDSE 2017, Palembang.&nbsp;<a href="http://ieeexplore.ieee.org/document/8285858/" target="_blank">Link</a></li>
