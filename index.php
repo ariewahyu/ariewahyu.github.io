@@ -50,7 +50,6 @@
 
         <p>Hi, my name is Arie Wahyu Wijayanto, a third year PhD student at Department of Computer Science, School of Computing, Tokyo Institute of Technology. I am a member of <a href="http://www.net.c.titech.ac.jp/index.html">Murata Laboratory</a> which specializes in research on artificial intelligence and Web mining. Currently, I am investigating some topics related to massive scale graph analytics and graph protection strategies involving fundamental linear algebra, reinforcement learning, and deep learning. During my studies, I am under the supervision of Prof. Tsuyoshi Murata (<a href="http://www.titech.ac.jp/english/index.html">Tokyo Institute of Technology</a>). Previously, I was intensively working under the supervision of Dr. Ayu Purwarianti (<a href="https://www.itb.ac.id/">Bandung Institute of Technology</a>, Indonesia), Dr. Le Hoang Son (<a href="https://vnu.edu.vn/eng/">Vietnam National University</a>), Dr. Muchammad Romzi and Mr. Roby Darmawan (<a href="https://www.bps.go.id/">BPS - Statistics Indonesia</a>).</p>
 
-        <p><b>Contact</b></p>
         <p>
         <a href="https://github.com/ariewahyu" target="_blank">Github</a> |
         <a href="https://scholar.google.com/citations?user=HGow-iAAAAAJ&amp;hl=en" target="_blank">Google Scholar</a> |
