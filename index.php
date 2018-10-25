@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!-- saved from url=(0022)https://ariewahyu.github.io/ -->
 <html class="gr__127_0_0_1"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>Arie Wahyu - Tokyo Institute of Technology</title>
+  <title>Arie Wahyu Wijayanto - Tokyo Institute of Technology</title>
   
   <meta name="description" content="Arie Wahyu Wijayanto">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
