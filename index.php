@@ -62,7 +62,7 @@
         <p><b>News</b></p>
         <table>
           <tr>
-              <td width="100" valign="top"><b>2018-08-27</b></td> 
+              <td width="100" valign="top"><b>2018-11-01</b></td> 
               <td> Our paper, co-authored by all PhD student in Murata Lab, "Robustness of Compressed Convolutional Neural Networks", is accepted at BigCyber 2018 workshop, co-located in <a href="http://cci.drexel.edu/bigdata/bigdata2018/" target="_blank">IEEE BigData 2018</a> Conference. Seattle, USA. </td>
           </tr
           <tr>
