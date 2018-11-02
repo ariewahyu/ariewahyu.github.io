@@ -63,7 +63,11 @@
         <table>
           <tr>
               <td width="100" valign="top"><b>2018-08-27</b></td> 
-              <td>My paper, "Learning Adaptive Graph Protection Strategy on Dynamic Networks via Reinforcement Learning", is accepted at <a href="https://webintelligence2018.com" target="_blank">Web Intelligence 2018</a> conference.</td>
+              <td> Our paper, co-authored by all PhD student in Murata Lab, "Robustness of Compressed Convolutional Neural Networks", is accepted at BigCyber 2018 workshop, co-located in <a href="http://cci.drexel.edu/bigdata/bigdata2018/" target="_blank">IEEE BigData 2018</a> Conference. Seattle, USA. </td>
+          </tr
+          <tr>
+              <td width="100" valign="top"><b>2018-08-27</b></td> 
+              <td>My paper, "Learning Adaptive Graph Protection Strategy on Dynamic Networks via Reinforcement Learning", is accepted at <a href="https://webintelligence2018.com" target="_blank">Web Intelligence 2018</a> conference. Santiago, Chile. </td>
           </tr>
           <tr>
               <td width="100" valign="top"><b>2018-03-17</b></td> 
@@ -75,11 +79,11 @@
           </tr>
           <tr>
               <td width="100" valign="top"><b>2017-07-03</b></td> 
-              <td>My paper from the extended version of my master thesis, "Enhancing Clustering Quality of Fuzzy Geographically Weighted Clustering using Ant Colony Optimization", is accepted at <a href="http://ieeexplore.ieee.org/document/8285858/" target="_blank">ICoDSE 2017</a> conference </td>
+              <td>My paper from the extended version of my master thesis, "Enhancing Clustering Quality of Fuzzy Geographically Weighted Clustering using Ant Colony Optimization", is accepted at <a href="http://ieeexplore.ieee.org/document/8285858/" target="_blank">ICoDSE 2017</a> conference. Palembang, Indonesia </td>
           </tr>
           <tr>
               <td width="100" valign="top"><b>2017-05-16</b></td> 
-              <td>My paper, "Flow-Aware Vertex Protection Strategy for Large Social Network", is accepted at <a href="https://dl.acm.org/citation.cfm?id=3110033" target="_blank">ASONAM 2017</a> conference. </td>
+              <td>My paper, "Flow-Aware Vertex Protection Strategy for Large Social Network", is accepted at <a href="https://dl.acm.org/citation.cfm?id=3110033" target="_blank">ASONAM 2017</a> conference. Sydney, Australia. </td>
           </tr>
         </table>
         <p><br/><br/><br/><br/><br/><br/></p>
