@@ -71,7 +71,7 @@
           </tr
           <tr>
               <td width="100" valign="top"><b>2018-08-27</b></td> 
-              <td>My paper, "Learning Adaptive Graph Protection Strategy on Dynamic Networks via Reinforcement Learning", is accepted at <a href="https://webintelligence2018.com" target="_blank">Web Intelligence 2018</a> conference. Santiago, Chile. </td>
+              <td>My paper, "Learning Adaptive Graph Protection Strategy on Dynamic Networks via Reinforcement Learning", is accepted at <a href="https://ieeexplore.ieee.org/abstract/document/8609642" target="_blank">Web Intelligence 2018</a> conference. Santiago, Chile. </td>
           </tr>
           <tr>
               <td width="100" valign="top"><b>2018-03-17</b></td> 
@@ -113,7 +113,7 @@
       <ul>
         <li>Arie Wahyu Wijayanto, Tsuyoshi Murata: Flow-Aware Vertex Protection Strategy for Large Social Network. ASONAM 2017, Sydney, Australia.&nbsp;<a href="https://dl.acm.org/citation.cfm?id=3110033" target="_blank">Link</a></li>
         <li>Arie Wahyu Wijayanto, Tsuyoshi Murata: Pre-Emptive Spectral Graph Protection Strategies on Multiplex Social Networks. Applied Network Science. 2018. Springer. <a href="https://appliednetsci.springeropen.com/articles/10.1007/s41109-018-0061-8" target="_blank">Link</a> </li>
-        <li>Arie Wahyu Wijayanto, Tsuyoshi Murata: Learning Adaptive Graph Protection Strategy on Dynamic Networks via Reinforcement Learning. Web Intelligence 2018, Santiago, Chile.</li>
+        <li>Arie Wahyu Wijayanto, Tsuyoshi Murata: Learning Adaptive Graph Protection Strategy on Dynamic Networks via Reinforcement Learning. Web Intelligence 2018, Santiago, Chile. <a href="https://ieeexplore.ieee.org/abstract/document/8609642" target="_blank">Link</a> </li>
       </ul>
       
 
@@ -189,7 +189,7 @@
       <p><code>Peer-Reviewed International Conference&nbsp;</code></p>
       
       <ol>
-            <li><b>Arie Wahyu Wijayanto</b>, Tsuyoshi Murata: Learning Adaptive Graph Protection Strategy on Dynamic Networks via Reinforcement Learning. Web Intelligence 2018, Santiago, Chile.</li>
+            <li><b>Arie Wahyu Wijayanto</b>, Tsuyoshi Murata: Learning Adaptive Graph Protection Strategy on Dynamic Networks via Reinforcement Learning. Web Intelligence 2018, Santiago, Chile. <a href="https://ieeexplore.ieee.org/abstract/document/8609642" target="_blank">Link</a> </li>
             
             <li><b>Arie Wahyu Wijayanto</b>, Tsuyoshi Murata: Flow-Aware Vertex Protection Strategy for Large Social Network. ASONAM 2017, Sydney.&nbsp;<a href="https://dl.acm.org/citation.cfm?id=3110033" target="_blank">Link</a></li>
             
