@@ -62,16 +62,20 @@
         <p><b>News</b></p>
         <table>
           <tr>
+              <td width="100" valign="top"><b>2019-03-12</b></td> 
+              <td> My paper, "Effective and scalable methods for graph protection strategies against epidemics on dynamic networks", is accepted at <a href="https://appliednetsci.springeropen.com" target="_blank">Applied Network Science</a> journal, published by Springer </td>
+          </tr>
+          <tr>
               <td width="100" valign="top"><b>2018-12-04</b></td> 
               <td> Our paper, co-authored by all PhD students in Murata Lab, "Towards Robust Compressed Convolutional Neural Networks", is accepted at <a href="http://www.bigcomputing.org" target="_blank">IEEE BigComputing 2019</a> Conference. Kyoto, Japan. </td>
           </tr>
           <tr>
               <td width="100" valign="top"><b>2018-11-01</b></td> 
-              <td> Our paper, co-authored by all PhD students in Murata Lab, "Robustness of Compressed Convolutional Neural Networks", is accepted at BigCyber 2018 workshop, co-located in <a href="http://cci.drexel.edu/bigdata/bigdata2018/" target="_blank">IEEE BigData 2018</a> Conference. Seattle, USA. </td>
+              <td> Our paper, co-authored by all PhD students in Murata Lab, "Robustness of Compressed Convolutional Neural Networks", is accepted at BigCyber 2018 workshop, co-located in <a href="https://ieeexplore.ieee.org/document/8622371" target="_blank">IEEE BigData 2018</a> Conference. Seattle, USA. </td>
           </tr
           <tr>
               <td width="100" valign="top"><b>2018-08-27</b></td> 
-              <td>My paper, "Learning Adaptive Graph Protection Strategy on Dynamic Networks via Reinforcement Learning", is accepted at <a href="https://ieeexplore.ieee.org/abstract/document/8609642" target="_blank">Web Intelligence 2018</a> conference. Santiago, Chile. </td>
+              <td>My paper, "Learning Adaptive Graph Protection Strategy on Dynamic Networks via Reinforcement Learning", is accepted at <a href="https://ieeexplore.ieee.org/document/8609642" target="_blank">Web Intelligence 2018</a> conference. Santiago, Chile. </td>
           </tr>
           <tr>
               <td width="100" valign="top"><b>2018-03-17</b></td> 
@@ -113,7 +117,7 @@
       <ul>
         <li>Arie Wahyu Wijayanto, Tsuyoshi Murata: Flow-Aware Vertex Protection Strategy for Large Social Network. ASONAM 2017, Sydney, Australia.&nbsp;<a href="https://dl.acm.org/citation.cfm?id=3110033" target="_blank">Link</a></li>
         <li>Arie Wahyu Wijayanto, Tsuyoshi Murata: Pre-Emptive Spectral Graph Protection Strategies on Multiplex Social Networks. Applied Network Science. 2018. Springer. <a href="https://appliednetsci.springeropen.com/articles/10.1007/s41109-018-0061-8" target="_blank">Link</a> </li>
-        <li>Arie Wahyu Wijayanto, Tsuyoshi Murata: Learning Adaptive Graph Protection Strategy on Dynamic Networks via Reinforcement Learning. Web Intelligence 2018, Santiago, Chile. <a href="https://ieeexplore.ieee.org/abstract/document/8609642" target="_blank">Link</a> </li>
+        <li>Arie Wahyu Wijayanto, Tsuyoshi Murata: Learning Adaptive Graph Protection Strategy on Dynamic Networks via Reinforcement Learning. Web Intelligence 2018, Santiago, Chile. <a href="https://ieeexplore.ieee.org/document/8609642" target="_blank">Link</a> </li>
       </ul>
       
 
