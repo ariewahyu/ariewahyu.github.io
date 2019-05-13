@@ -114,7 +114,7 @@
 
       <p>1) <i>GraphShield</i> method is proposed for graph protection strategy in single-layered static networks. It combines the connectivity and degree centrality criteria. </p> 
       <p>2) <i>MultiplexShield</i> method which combines the spectral property, degree centrality, and layer-wise epidemic propagation rate is proposed for protecting multiplex networks.  </p>
-      <p>3) For dynamic networks, the author proposes <i>ReProtect</i> method which constructs the minimum vertex cover of the given dynamic network snapshot. </p>
+      <p>3) For dynamic networks, we propose <i>ReProtect</i> method which constructs the minimum vertex cover of the given dynamic network snapshot. </p>
 
       <p>These three proposed methods are scalable and more effective than the existing state-of-the-art techniques. </p> 
       <p><img border="0" height="238" src="./inc/graph-protection.png" width="600"></p>
