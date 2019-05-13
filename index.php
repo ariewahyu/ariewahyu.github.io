@@ -48,7 +48,7 @@
         <h4>Ph.D. Student and Research Assistant, <b>TokyoTech</b></h4>
         <a href="http://www.titech.ac.jp/english/index.html"><img border="1" width="167" height="34" src="./inc/logo.gif"></a><p></p>
 
-        <p>Hi, my name is Arie Wahyu Wijayanto, a third year PhD student at Department of Computer Science, School of Computing, Tokyo Institute of Technology. I am a member of <a href="http://www.net.c.titech.ac.jp/index.html">Murata Laboratory</a> which specializes in research on artificial intelligence and Web mining. Currently, I am investigating some topics related to massive scale graph analytics and graph protection strategies involving fundamental linear algebra, reinforcement learning, and deep learning. During my studies, I am under the supervision of Prof. Tsuyoshi Murata (<a href="http://www.titech.ac.jp/english/index.html">Tokyo Institute of Technology</a>). Previously, I was intensively working under the supervision of Dr. Ayu Purwarianti (<a href="https://www.itb.ac.id/">Bandung Institute of Technology</a>, Indonesia), Dr. Le Hoang Son (<a href="https://vnu.edu.vn/eng/">Vietnam National University</a>), Dr. Muchammad Romzi and Mr. Roby Darmawan (<a href="https://www.bps.go.id/">BPS - Statistics Indonesia</a>).</p>
+        <p>Hi, my name is Arie Wahyu Wijayanto, a fourth year PhD student at Department of Computer Science, School of Computing, Tokyo Institute of Technology. I am a member of <a href="http://www.net.c.titech.ac.jp/index.html">Murata Laboratory</a> which specializes in research on artificial intelligence and Web mining. Currently, I am investigating some topics related to massive scale graph analytics and graph protection strategies involving fundamental linear algebra, reinforcement learning, and deep learning. During my studies, I am under the supervision of Prof. Tsuyoshi Murata (<a href="http://www.titech.ac.jp/english/index.html">Tokyo Institute of Technology</a>). Previously, I was intensively working under the supervision of Dr. Ayu Purwarianti (<a href="https://www.itb.ac.id/">Bandung Institute of Technology</a>, Indonesia), Dr. Le Hoang Son (<a href="https://vnu.edu.vn/eng/">Vietnam National University</a>), Dr. Muchammad Romzi and Mr. Roby Darmawan (<a href="https://www.bps.go.id/">BPS - Statistics Indonesia</a>).</p>
 
         <p>
         <a href="https://github.com/ariewahyu" target="_blank">Github</a> |
@@ -110,9 +110,11 @@
       
       <h3>Graph Protection Strategies for Large Social Networks</h3>
       
-      <p>Networks are fundamental models for representing and analyzing the structures of real-world systems. One essential problem in networks is how to protect a limited number of nodes to restrain the spreading of malicious attacks or dangerous rumor in the networks, which is called <i>graph protection problem</i>. Our research aims to make breakthroughs in developing effective and scalable methods for graph protection problem in three representative network models. </p>
+      <p>Networks are fundamental models for representing and analyzing the structures of real-world systems. One essential problem in networks is how to protect a limited number of nodes to restrain the spreading of malicious attacks or dangerous rumor in the networks, which is called <i>graph protection problem</i>. Our research aims to make breakthroughs in developing effective and scalable methods for graph protection problem in three representative network models. In particular,  </p>
 
-      <p>In particular, 1) <b>GraphShield</b> method is proposed for graph protection strategy in single-layered static networks. It combines the connectivity and degree centrality criteria. 2) <b>MultiplexShield</b> method which combines the spectral property, degree centrality, and layer-wise epidemic propagation rate is proposed for protecting multiplex networks. 3) For dynamic networks, the author proposes <b>ReProtect</b> method which constructs the minimum vertex cover of the given dynamic network snapshot. </p>
+      <p>1) <i>GraphShield</i> method is proposed for graph protection strategy in single-layered static networks. It combines the connectivity and degree centrality criteria. </p> 
+      <p>2) <i>MultiplexShield</i> method which combines the spectral property, degree centrality, and layer-wise epidemic propagation rate is proposed for protecting multiplex networks.  </p>
+      <p>3) For dynamic networks, the author proposes <i>ReProtect</i> method which constructs the minimum vertex cover of the given dynamic network snapshot. </p>
 
       <p>These three proposed methods are scalable and more effective than the existing state-of-the-art techniques. </p> 
       <p><img border="0" height="238" src="./inc/graph-protection.png" width="600"></p>
@@ -125,7 +127,7 @@
         <li>Arie Wahyu Wijayanto, Tsuyoshi Murata: Flow-Aware Vertex Protection Strategy for Large Social Network. ASONAM 2017, Sydney, Australia.&nbsp;<a href="https://dl.acm.org/citation.cfm?id=3110033" target="_blank">Link</a></li>
       </ul>
       
-      
+
       
       <h3>Data Mining and Fuzzy Geo-Demographic Clustering</h3>
       
