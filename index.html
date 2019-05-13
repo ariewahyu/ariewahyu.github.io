@@ -63,11 +63,11 @@
         <table>
           <tr>
               <td width="100" valign="top"><b>2019-03-12</b></td> 
-              <td> My paper, "Effective and scalable methods for graph protection strategies against epidemics on dynamic networks", is accepted at <a href="https://appliednetsci.springeropen.com" target="_blank">Applied Network Science</a> journal, published by Springer </td>
+              <td> My paper, "Effective and scalable methods for graph protection strategies against epidemics on dynamic networks", is accepted at <a href="https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0122-7" target="_blank">Applied Network Science</a> journal, published by Springer </td>
           </tr>
           <tr>
               <td width="100" valign="top"><b>2018-12-04</b></td> 
-              <td> Our paper, co-authored by all PhD students in Murata Lab, "Towards Robust Compressed Convolutional Neural Networks", is accepted at <a href="http://www.bigcomputing.org" target="_blank">IEEE BigComputing 2019</a> Conference. Kyoto, Japan. </td>
+              <td> Our paper, co-authored by all PhD students in Murata Lab, "Towards Robust Compressed Convolutional Neural Networks", is accepted at <a href="https://ieeexplore.ieee.org/document/8679132" target="_blank">IEEE BigComputing 2019</a> Conference. Kyoto, Japan. </td>
           </tr>
           <tr>
               <td width="100" valign="top"><b>2018-11-01</b></td> 
@@ -110,17 +110,22 @@
       
       <h3>Graph Protection Strategies for Large Social Networks</h3>
       
-      <p>Given a large graph, such as social network, how to determine set of vertices should we protect given the limited budget such that the percentage of vertices that remain uninfected at the end of infection propagation is maximized? </p> 
+      <p>Networks are fundamental models for representing and analyzing the structures of real-world systems. One essential problem in networks is how to protect a limited number of nodes to restrain the spreading of malicious attacks or dangerous rumor in the networks, which is called <i>graph protection problem</i>. Our research aims to make breakthroughs in developing effective and scalable methods for graph protection problem in three representative network models. </p>
+
+      <p>In particular, 1) <b>GraphShield</b> method is proposed for graph protection strategy in single-layered static networks. It combines the connectivity and degree centrality criteria. 2) <b>MultiplexShield</b> method which combines the spectral property, degree centrality, and layer-wise epidemic propagation rate is proposed for protecting multiplex networks. 3) For dynamic networks, the author proposes <b>ReProtect</b> method which constructs the minimum vertex cover of the given dynamic network snapshot. </p>
+
+      <p>These three proposed methods are scalable and more effective than the existing state-of-the-art techniques. </p> 
       <p><img border="0" height="238" src="./inc/graph-protection.png" width="600"></p>
 
       <code>Paper:</code>
       <ul>
-        <li>Arie Wahyu Wijayanto, Tsuyoshi Murata: Flow-Aware Vertex Protection Strategy for Large Social Network. ASONAM 2017, Sydney, Australia.&nbsp;<a href="https://dl.acm.org/citation.cfm?id=3110033" target="_blank">Link</a></li>
-        <li>Arie Wahyu Wijayanto, Tsuyoshi Murata: Pre-Emptive Spectral Graph Protection Strategies on Multiplex Social Networks. Applied Network Science. 2018. Springer. <a href="https://appliednetsci.springeropen.com/articles/10.1007/s41109-018-0061-8" target="_blank">Link</a> </li>
+        <li>Arie Wahyu Wijayanto, Tsuyoshi Murata: Effective and scalable methods for graph protection strategies against epidemics on dynamic networks. Applied Network Science. 2019. Springer. <a href="https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0122-7" target="_blank">Link</a> </li>
         <li>Arie Wahyu Wijayanto, Tsuyoshi Murata: Learning Adaptive Graph Protection Strategy on Dynamic Networks via Reinforcement Learning. Web Intelligence 2018, Santiago, Chile. <a href="https://ieeexplore.ieee.org/document/8609642" target="_blank">Link</a> </li>
+        <li>Arie Wahyu Wijayanto, Tsuyoshi Murata: Pre-emptive spectral graph protection strategies on multiplex social networks. Applied Network Science. 2018. Springer. <a href="https://appliednetsci.springeropen.com/articles/10.1007/s41109-018-0061-8" target="_blank">Link</a> </li>
+        <li>Arie Wahyu Wijayanto, Tsuyoshi Murata: Flow-Aware Vertex Protection Strategy for Large Social Network. ASONAM 2017, Sydney, Australia.&nbsp;<a href="https://dl.acm.org/citation.cfm?id=3110033" target="_blank">Link</a></li>
       </ul>
       
-
+      
       
       <h3>Data Mining and Fuzzy Geo-Demographic Clustering</h3>
       
