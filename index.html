@@ -297,7 +297,8 @@
           <li>IEEE International Conference on Data Mining (ICDM) 2017</li>
           <li>IEEE International Conference on Data Mining (ICDM) 2018</li>
           <li>Information Retrieval Journal (Springer)</li>        
-          <li>Applied Soft Computing Journal (Elsevier)</li>
+          <li>Applied Soft Computing Journal (Elsevier)</li>       
+          <li>International Journal of Fuzzy Systems (Springer)</li>        
       </ul>
 
 
