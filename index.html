@@ -45,10 +45,10 @@
     <a name="about" href="https://ariewahyu.github.io/#about"><h2>Arie Wahyu Wijayanto</h2></a>
    <section class="body">
         <p></p>
-        <h4>Ph.D. Student and Research Assistant, <b>TokyoTech</b></h4>
+        <h4>Doctor of Engineering, <b>TokyoTech</b></h4>
         <a href="http://www.titech.ac.jp/english/index.html"><img border="1" width="167" height="34" src="./inc/logo.gif"></a><p></p>
 
-        <p>Hi, my name is Arie Wahyu Wijayanto, a final year PhD student at Department of Computer Science, School of Computing, Tokyo Institute of Technology. I am a member of <a href="http://www.net.c.titech.ac.jp/index.html">Murata Laboratory</a> which specializes in research on artificial intelligence and Web mining. Currently, I am investigating some topics related to massive scale graph analytics and graph protection strategies involving fundamental linear algebra, reinforcement learning, and deep learning. During my studies, I am under the supervision of Prof. Tsuyoshi Murata (<a href="http://www.titech.ac.jp/english/index.html">Tokyo Institute of Technology</a>). Previously, I was intensively working under the supervision of Dr. Ayu Purwarianti (<a href="https://www.itb.ac.id/">Bandung Institute of Technology</a>, Indonesia), Dr. Le Hoang Son (<a href="https://vnu.edu.vn/eng/">Vietnam National University</a>), Dr. Muchammad Romzi and Mr. Roby Darmawan (<a href="https://www.bps.go.id/">BPS - Statistics Indonesia</a>).</p>
+        <p>Hi, my name is Arie Wahyu Wijayanto, a Ph.D. graduate from Department of Computer Science, School of Computing, Tokyo Institute of Technology. I was a member of <a href="http://www.net.c.titech.ac.jp/index.html">Murata Laboratory</a> which specializes in research on artificial intelligence and Web mining. I have been investigating some topics related to massive scale graph analytics and graph protection strategies involving fundamental linear algebra, reinforcement learning, and deep learning. During my PhD studies, I was under the supervision of Prof. Tsuyoshi Murata (<a href="http://www.titech.ac.jp/english/index.html">Tokyo Institute of Technology</a>). Previously, I was intensively working under the supervision of Dr. Ayu Purwarianti (<a href="https://www.itb.ac.id/">Bandung Institute of Technology</a>, Indonesia), Dr. Le Hoang Son (<a href="https://vnu.edu.vn/eng/">Vietnam National University</a>), Dr. Muchammad Romzi and Mr. Roby Darmawan (<a href="https://www.bps.go.id/">BPS - Statistics Indonesia</a>).</p>
 
         <p>
         <a href="https://github.com/ariewahyu" target="_blank">Github</a> |
@@ -61,6 +61,10 @@
         <p></p>
         <p><b>News</b></p>
         <table>
+          <tr>
+              <td width="100" valign="top"><b>2020-03-26</b></td> 
+              <td> I graduated from Tokyo Institute of Technology and got the degree of Doctor of Engineering (Dr. Eng.)  </td>
+          </tr>
           <tr>
               <td width="100" valign="top"><b>2019-03-12</b></td> 
               <td> My paper, "Effective and scalable methods for graph protection strategies against epidemics on dynamic networks", is accepted at <a href="https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0122-7" target="_blank">Applied Network Science</a> journal, published by Springer </td>
