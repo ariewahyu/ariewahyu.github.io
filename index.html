@@ -167,21 +167,6 @@
       <ul>
         <li>Arie Wahyu Wijayanto, Suhardi: Service Oriented Architecture Design using SOMA for Optimizing Public Satisfaction in Government Agency Case Study: BPN – National Land Authority of Indonesia. International Conference on ICT for Smart Society (ICISS) 2014, Bandung; 09/2014. <a href="http://ieeexplore.ieee.org/document/7013150" target="_blank">Link</a></li>
       </ul>
-
-      
-      <h3>Intelligent System</h3>
-      
-      <p>Transportation become one factor of the rapidly growing urbanization and traffic congestion in many country. The challenging idea of making indicators to benchmark smartness of the transportation in big cities has attracted much attention in recent times. Numerous studies had performed to measure and evaluate the performance level of transportation system in various cities across the world. </p>        
-
-      <p>However, even though there is urgent needs of performing city transportation evaluation, no relevant comprehensive studies that measure and evaluate the performance of smartness city transportation in Indonesia. In this research, we proposed the evaluation and bench marking study of those big cities. The proposed methodology was illustrated using a set of data collected from 5 big cities in Indonesia through web search and local government agency. The key value of the proposed framework located in a comparative analysis among cities. The benchmark measures indicators obtained from a systematic process of extensive literature survey and secondary sources. It should be noted that the value of this benchmark may change over time as the emergence of new technologies could create new dimensions of the developing urban transportation systems. This study is based on literature and were not measured directly. The indicators may be enriched and extended to match the changing societal needs.</p>
-      <p><img border="0" height="320" src="./inc/performance-ariewahyu.png" width="304"></p>
-      
-      <code>Paper:</code>
-      
-      <ul>
-        <li>Atut Pindarwati, Arie Wahyu Wijayanto: Measuring Performance Level of Smart Transportation System in Big Cities of Indonesia (Comparative Study: Jakarta, Bandung, Medan, Surabaya, and Makassar). International Conference on Information Technology Systems and Innovation (ICITSI) 2015, Bandung, Indonesia; 11/2015. <a href="http://ieeexplore.ieee.org/document/7437716" target="_blank">Link</a></li>
-      </ul>
-
     </section>
   </article>
 
@@ -209,9 +194,7 @@
             <li><b>Arie Wahyu Wijayanto</b>, Tsuyoshi Murata: Flow-Aware Vertex Protection Strategy for Large Social Network. ASONAM 2017, Sydney.&nbsp;<a href="https://dl.acm.org/citation.cfm?id=3110033" target="_blank">Link</a></li>
             
             <li><b>Arie Wahyu Wijayanto, </b>Siti Mariyah, Ayu Purwarianti:&nbsp;Enhancing Clustering Quality of Fuzzy Geographically Weighted Clustering using Ant Colony Optimization. ICoDSE 2017, Palembang.&nbsp;<a href="http://ieeexplore.ieee.org/document/8285858/" target="_blank">Link</a></li>
-            
-            <li>Atut Pindarwati, <b>Arie Wahyu Wijayanto</b>: Measuring Performance Level of Smart Transportation System in Big Cities of Indonesia (Comparative Study: Jakarta, Bandung, Medan, Surabaya, and Makassar). International Conference on Information Technology Systems and Innovation (ICITSI) 2015, Bandung, Indonesia; 11/2015. <a href="http://ieeexplore.ieee.org/document/7437716" target="_blank">Link</a></li>
-            
+          
             <li><b>Arie Wahyu Wijayanto</b>, Ayu Purwarianti: Improvement of Fuzzy Geographically Weighted Clustering using Particle Swarm Optimization. International Conference on Information Technology Systems and Innovation (ICITSI) 2014, Bandung; 11/2014. <a href="http://ieeexplore.ieee.org/document/7048229" target="_blank">Link</a></li>
             
             <li><b>Arie Wahyu Wijayanto</b>, Takdir: Fighting Cyber Crime in Email Spamming: An Evaluation of Fuzzy Clustering Approach to Classify Spam Messages. International Conference on Information Technology Systems and Innovation (ICITSI) 2014, Bandung; 11/2014. <a href="http://ieeexplore.ieee.org/document/7048231" target="_blank">Link</a></li>
