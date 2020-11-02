@@ -251,9 +251,9 @@
       <p><code>Education</code></p>
 
       <ul>
-          <li>2016.04 - <i>2020.03</i>, <b>Doctor of Engineering </b>in <b>Computer Science</b> <i></i></li>
+          <li>2016.04 - 2020.03, <b>Doctor of Engineering </b>in <b>Computer Science</b> <i></i></li>
           <p><a href="http://www.titech.ac.jp/english/index.html" target="_blank">Tokyo Institute of Technology</a>, Japan<br>
-          Research topic: Artificial intelligence and web mining</p>
+          Thesis title: Developing Effective and Scalable Graph Protection Strategies for Large Social Networks.</p>
       </ul>
 
       <ul>
@@ -265,15 +265,15 @@
       <ul>
           <li>2004.07-2008.10, <b>Bachelor of Applied Science</b> in <b>Computational Statistics</b></li>
           <p><a href="http://stis.ac.id/" target="_blank">Institute of Statistics (STIS)</a>, Indonesia.<br>
-          Thesis title: Perancangan dan Implementasi Sistem Pakar Analisis Data dengan Java Expert System Shell (Studi Kasus Publikasi Daerah Dalam Angka Bidang Pertanian di Badan Pusat Statistik).</p>
+          Thesis title: Design and Implementation Expert System for Data Analysis using Java Expert System Shell. (In Indonesian Language).</p>
       </ul>
 
 
       <p><code>Work</code></p>
 
       <ul>
-            <li>2017.01 - <i>present</i>, <b>Research Assistant</b>, Murata Laboratory, Tokyo Institute of Technology </li>
-            <li>2009.02 - <i>present</i>, <b>Regional Accounts IT Developer</b>, <a href="http://www.bps.go.id/" target="_blank">Statistics Indonesia (BPS)</a></li>
+            <li>2017.01 - 2019.03, <b>Research Assistant</b>, Murata Laboratory, Tokyo Institute of Technology </li>
+            <li>2009.02 - 2020.07, <b>Regional Accounts IT Developer</b>, <a href="http://www.bps.go.id/" target="_blank">Statistics Indonesia (BPS)</a></li>
       </ul>
 
 
