@@ -251,19 +251,19 @@
       <p><code>Education</code></p>
 
       <ul>
-          <li>2016.04 - <i>present</i>, <b>Ph.D. </b>in <b>Computer Science</b> <i></i></li>
+          <li>2016.04 - <i>2020.03</i>, <b>Doctor of Engineering </b>in <b>Computer Science</b> <i></i></li>
           <p><a href="http://www.titech.ac.jp/english/index.html" target="_blank">Tokyo Institute of Technology</a>, Japan<br>
           Research topic: Artificial intelligence and web mining</p>
       </ul>
 
       <ul>
-          <li>2013.08 - 2015.04, <b>Master of Science</b> in <b>Computer Science</b></li>
+          <li>2013.08 - 2015.04, <b>Master of Science</b> in <b>Computer Science/Informatics</b></li>
           <p><a href="https://www.itb.ac.id/" target="_blank">Bandung Institute of Technology (ITB)</a>, Indonesia. Cum Laude.<br>
           Thesis title: Improvement of Fuzzy Geo-Demographic Clustering using Metaheuristic Optimization on Indonesia Population Census.</p>
       </ul>
 
       <ul>
-          <li>2004.07-2008.10, <b>Bachelor of Applied Science</b> in <b>Computation of Statistics</b></li>
+          <li>2004.07-2008.10, <b>Bachelor of Applied Science</b> in <b>Computational Statistics</b></li>
           <p><a href="http://stis.ac.id/" target="_blank">Institute of Statistics (STIS)</a>, Indonesia.<br>
           Thesis title: Perancangan dan Implementasi Sistem Pakar Analisis Data dengan Java Expert System Shell (Studi Kasus Publikasi Daerah Dalam Angka Bidang Pertanian di Badan Pusat Statistik).</p>
       </ul>
