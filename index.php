@@ -54,6 +54,7 @@
         <a href="https://github.com/ariewahyu" target="_blank">Github</a> |
         <a href="https://scholar.google.com/citations?user=HGow-iAAAAAJ&amp;hl=en" target="_blank">Google Scholar</a> |
         <a href="https://www.scopus.com/authid/detail.uri?authorId=56524637100" target="_blank">Scopus</a> | 
+        <a href="https://publons.com/researcher/1373564/arie-wahyu-wijayanto" target="_blank">Web of Science</a> | 
         <a href="https://www.researchgate.net/profile/Arie_Wahyu_Wijayanto" target="_blank">ResearchGate</a> <br/>
         Email: ariewahyu {at} gmail {dot} com<br>
         </p>
