@@ -27,6 +27,7 @@
               <li class=""><a href="https://ariewahyu.github.io/#professional-membership">Professional Membership</a></li>
               <li class=""><a href="https://ariewahyu.github.io/#invited-talks">Invited Talks</a></li>
               <li class=""><a href="https://ariewahyu.github.io/#awards">Awards</a></li>
+              <li class=""><a href="https://ariewahyu.github.io/#calendar">Calendar</a></li>
           </ul>
         </li>
         <li><a href="./inc/Arie W Wijayanto.pdf" target="_blank">Curriculum Vitae</a></li>
@@ -370,6 +371,30 @@
     </section>
   </article>
 
+
+<!-- .......... -->
+<!-- CALENDAR -->
+<!-- .......... -->
+
+  <article class="">
+    <a name="calendar" href="https://ariewahyu.github.io/#calendar"><h2>Calendar</h2></a>
+    <section class="body">
+      <iframe src="https://calendar.google.com/calendar/embed?src=ariewahyu%40stis.ac.id&ctz=Asia%2FJakarta" 
+              style="border: 0" width="800" height="600" frameborder="0" scrolling="no">
+      </iframe>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      
+
+    </section>
+  </article>
+  
+  
+  
 </section>
 
   <!--[if lt IE 9]><script src='http://html5shim.googlecode.com/svn/trunk/html5.js'></script><![endif]-->
