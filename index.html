@@ -49,7 +49,7 @@
         <h4>Doctor of Engineering, <b>TokyoTech</b></h4>
         <a href="http://www.titech.ac.jp/english/index.html"><img border="1" width="167" height="34" src="./inc/logo.gif"></a><p></p>
 
-        <p>Hi, my name is Arie Wahyu Wijayanto, a Ph.D. graduate from Department of Computer Science, School of Computing, Tokyo Institute of Technology. I was a member of <a href="http://www.net.c.titech.ac.jp/index.html">Murata Laboratory</a> which specializes in research on artificial intelligence and Web mining. I have been investigating some topics related to massive scale graph analytics and graph protection strategies involving fundamental linear algebra, reinforcement learning, and deep learning. During my PhD studies, I was under the supervision of Prof. Tsuyoshi Murata (<a href="http://www.titech.ac.jp/english/index.html">Tokyo Institute of Technology</a>). Previously, I was intensively working under the supervision of Dr. Ayu Purwarianti (<a href="https://www.itb.ac.id/">Bandung Institute of Technology</a>, Indonesia), Dr. Le Hoang Son (<a href="https://vnu.edu.vn/eng/">Vietnam National University</a>), Dr. Muchammad Romzi and Mr. Roby Darmawan (<a href="https://www.bps.go.id/">BPS - Statistics Indonesia</a>).</p>
+        <p>Hi, my name is Arie Wahyu Wijayanto, a Ph.D. graduate from the Department of Computer Science, School of Computing, Tokyo Institute of Technology. I was a member of <a href="http://www.net.c.titech.ac.jp/index.html">Murata Laboratory</a> which specializes in research on artificial intelligence, especially network science, machine learning, and web mining. I have been investigating some topics related to massive scale graph analytics and graph protection strategies involving fundamental linear algebra, reinforcement learning, and deep learning. During my Ph.D. study, I was under the supervision of Prof. Tsuyoshi Murata (<a href="http://www.titech.ac.jp/english/index.html">Tokyo Institute of Technology</a>). Previously, I was intensively working under the supervision of Dr. Ayu Purwarianti (<a href="https://www.itb.ac.id/">Bandung Institute of Technology</a>, Indonesia), Dr. Le Hoang Son (<a href="https://vnu.edu.vn/eng/">Vietnam National University</a>), Dr. Muchammad Romzi and Mr. Roby Darmawan (<a href="https://www.bps.go.id/">BPS - Statistics Indonesia</a>).</p>
 
         <p>
         <a href="https://github.com/ariewahyu" target="_blank">Github</a> |
@@ -351,7 +351,7 @@
     <a name="awards" href="https://ariewahyu.github.io/#awards"><h2>Awards</h2></a>
     <section class="body">
       <ul>
-          <li>2016-<i>present</i>, Scholarship for PhD degree: Indonesia Endowment Fund for Education (LPDP)</li>
+          <li>2016-2020, Scholarship for PhD degree: Indonesia Endowment Fund for Education (LPDP)</li>
           <li>2013-2015, Scholarship for Master degree: BPS Postgraduate Scholarship</li>
           <li>2006, Finalist in Bina Nusantara Programming Contest for College Student (BNPCCS)</li>
           <li>2004-2008, Scholarship for Undergraduate study from the Indonesian government at the Institute of Statistics, Jakarta</li>
