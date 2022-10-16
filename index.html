@@ -12,7 +12,7 @@
   <nav id="sidebar">
     <center>
         <h1><a href="https://ariewahyu.github.io/">
-          <img border="2" height="150" width="150" src="./inc/arie.jpg">
+          <img border="2" height="150" width="150" src="./inc/Pic.png">
         </a></h1>
     </center> 
     <ul id="links">
