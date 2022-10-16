@@ -46,8 +46,7 @@
     <a name="about" href="https://ariewahyu.github.io/#about"><h2>Arie Wahyu Wijayanto</h2></a>
    <section class="body">
         <p></p>
-        <h4>Doctor of Engineering, <b>TokyoTech</b></h4>
-        <a href="http://www.titech.ac.jp/english/index.html"><img border="1" width="167" height="34" src="./inc/logo.gif"></a><p></p>
+        <h4>Welcome</b></h4><p></p>
 
         <p>Hi, my name is Arie Wahyu Wijayanto. Currently, I am serving as the Head of the Center for Research and Community Service (PPPM) at Politeknik Statistika STIS, Jakarta, Indonesia. I obtained a Doctor of Engineering degree in computer science from Tokyo Institute of Technology, Japan. I was a member of <a href="http://www.net.c.titech.ac.jp/index.html">Murata Laboratory</a> which specializes in research on artificial intelligence, especially network science, machine learning, and web mining. During my doctoral study, I was under the supervision of Prof. Tsuyoshi Murata (<a href="http://www.titech.ac.jp/english/index.html">Tokyo Institute of Technology</a>). Previously, I was intensively working under the supervision of Dr. Ayu Purwarianti (<a href="https://www.itb.ac.id/">Bandung Institute of Technology</a>, Indonesia), Dr. Le Hoang Son (<a href="https://vnu.edu.vn/eng/">Vietnam National University</a>), Dr. Muchammad Romzi and Mr. Roby Darmawan (<a href="https://www.bps.go.id/">BPS - Statistics Indonesia</a>).</p>
 
